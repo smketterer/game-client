@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Read any incoming data.
 
 // The following keys are common to all received network
 // functions and will always be present in the async_load map:

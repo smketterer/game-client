@@ -1,4 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description DEBUG draw response.
 
 draw_text(x,y,output);
